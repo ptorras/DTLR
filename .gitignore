@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+
+build/
+*.sublime-project
+*.sublime-workspace
+*.egg
+*.egg-info
+*.pyc
+pyrightconfig.json
